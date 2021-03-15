@@ -1,0 +1,36 @@
+.input {
+    width: 200px;
+    margin-top: 20px;
+}
+.form {
+    margin-top: 20px;
+    width:300px;
+    height: 60px;
+    background: lightgray;
+    border-radius: 3px;
+
+}
+.td {
+    width: 200px;
+}
+
+.addButton {
+    width: 50px;
+    border-radius: 100px;
+    color: white;
+    background: mediumseagreen;
+}
+
+.editButton {
+    width: 50px;
+    border-radius: 100px;
+    color: white;
+    background: mediumseagreen;
+}
+
+.delButton {
+    width: 50px;
+    border-radius: 100px;
+    color: white;
+    background: mediumseagreen;
+}
